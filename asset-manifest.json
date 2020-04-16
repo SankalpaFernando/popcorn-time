@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/popcorn-time/static/css/main.b02a2c7d.chunk.css",
+    "main.js": "/popcorn-time/static/js/main.73d94c4e.chunk.js",
+    "main.js.map": "/popcorn-time/static/js/main.73d94c4e.chunk.js.map",
+    "runtime-main.js": "/popcorn-time/static/js/runtime-main.ed229c9d.js",
+    "runtime-main.js.map": "/popcorn-time/static/js/runtime-main.ed229c9d.js.map",
+    "static/css/2.cc46e421.chunk.css": "/popcorn-time/static/css/2.cc46e421.chunk.css",
+    "static/js/2.fdde02a9.chunk.js": "/popcorn-time/static/js/2.fdde02a9.chunk.js",
+    "static/js/2.fdde02a9.chunk.js.map": "/popcorn-time/static/js/2.fdde02a9.chunk.js.map",
+    "index.html": "/popcorn-time/index.html",
+    "precache-manifest.b924127fb860d955160a946a84ec64d7.js": "/popcorn-time/precache-manifest.b924127fb860d955160a946a84ec64d7.js",
+    "service-worker.js": "/popcorn-time/service-worker.js",
+    "static/css/2.cc46e421.chunk.css.map": "/popcorn-time/static/css/2.cc46e421.chunk.css.map",
+    "static/css/main.b02a2c7d.chunk.css.map": "/popcorn-time/static/css/main.b02a2c7d.chunk.css.map",
+    "static/js/2.fdde02a9.chunk.js.LICENSE.txt": "/popcorn-time/static/js/2.fdde02a9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/popcorn-time/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed229c9d.js",
+    "static/css/2.cc46e421.chunk.css",
+    "static/js/2.fdde02a9.chunk.js",
+    "static/css/main.b02a2c7d.chunk.css",
+    "static/js/main.73d94c4e.chunk.js"
+  ]
+}
