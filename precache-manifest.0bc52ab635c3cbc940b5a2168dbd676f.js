@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85e1e2bc3fa69bb2737524da45f21458",
+    "revision": "2b8d441b9a3a6064fab995a044bf380a",
     "url": "/popcorn-time/index.html"
   },
   {
-    "revision": "9451d6528e39882c2bee",
+    "revision": "39ee35aa55758aac97b5",
     "url": "/popcorn-time/static/css/2.cc46e421.chunk.css"
   },
   {
-    "revision": "be3d2303ffb2c8bd96eb",
+    "revision": "c7e2d0c09bcfac2fbf34",
     "url": "/popcorn-time/static/css/main.b02a2c7d.chunk.css"
   },
   {
-    "revision": "9451d6528e39882c2bee",
-    "url": "/popcorn-time/static/js/2.0ea3d99a.chunk.js"
+    "revision": "39ee35aa55758aac97b5",
+    "url": "/popcorn-time/static/js/2.fdde02a9.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/popcorn-time/static/js/2.0ea3d99a.chunk.js.LICENSE.txt"
+    "url": "/popcorn-time/static/js/2.fdde02a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be3d2303ffb2c8bd96eb",
-    "url": "/popcorn-time/static/js/main.66a0ec0d.chunk.js"
+    "revision": "c7e2d0c09bcfac2fbf34",
+    "url": "/popcorn-time/static/js/main.60a351a3.chunk.js"
   },
   {
     "revision": "fec09508f3d4c9242763",
