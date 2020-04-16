@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "232796c0a3171d238104d14c6779a1ee",
+    "revision": "85e1e2bc3fa69bb2737524da45f21458",
     "url": "/popcorn-time/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/popcorn-time/static/css/2.cc46e421.chunk.css"
   },
   {
-    "revision": "233c67a5ec13c2e4fc4a",
+    "revision": "be3d2303ffb2c8bd96eb",
     "url": "/popcorn-time/static/css/main.b02a2c7d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/popcorn-time/static/js/2.0ea3d99a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "233c67a5ec13c2e4fc4a",
-    "url": "/popcorn-time/static/js/main.87b3bf1e.chunk.js"
+    "revision": "be3d2303ffb2c8bd96eb",
+    "url": "/popcorn-time/static/js/main.66a0ec0d.chunk.js"
   },
   {
     "revision": "fec09508f3d4c9242763",
